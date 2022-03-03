@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "user": "José",
+      "name": "Madrid o barsa?",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "user": "pepe",
+      "text": "Siempre madrid",
+      "postId": "2",
+      "id": 1
+    }
+  ]
+}
